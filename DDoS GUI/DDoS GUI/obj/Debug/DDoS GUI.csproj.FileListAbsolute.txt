@@ -1,0 +1,20 @@
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.exe.config
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.exe
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.pdb
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csprojAssemblyReference.cache
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS_GUI.Form1.resources
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS_GUI.Properties.Resources.resources
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csproj.GenerateResource.cache
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csproj.CoreCompileInputs.cache
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.exe
+C:\Users\shriadam636\source\repos\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.pdb
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.exe.config
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.exe
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\bin\Debug\DDoS GUI.pdb
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS_GUI.Form1.resources
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS_GUI.Properties.Resources.resources
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.exe
+C:\Users\Adam\Desktop\DDoS GUI\DDoS GUI\obj\Debug\DDoS GUI.pdb
